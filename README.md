@@ -1,4 +1,10 @@
-# Uranos-PSD-to-HTML
-Live Preview: https://iammehedi1.github.io/Uranos-PSD-to-HTML/
+# Uranos Responsive Product Landing Page
 
-It was a project I did when i was learning responsive website building by doing PSD to HTML conversion !
+Uranos is a responsive front-end exercise that translates a supplied Photoshop mockup into a landing page. It includes a hero, a sign-in form interface, feature sections and a download CTA.
+
+## Source
+
+- [index.html](index.html) implements the layout in HTML, CSS and Bootstrap.
+- [Uranos PSD template.psd](Uranos%20PSD%20template.psd) contains the design reference.
+
+Open the HTML file locally or visit the [live demo](https://iammehedi1.github.io/Uranos-PSD-to-HTML/).
